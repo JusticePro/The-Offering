@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MobileOnly.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="35" Column="3" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lamb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pig.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Moving.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Knife.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bull.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelBorder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Candle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MobileOnly.cs" Line="13" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
